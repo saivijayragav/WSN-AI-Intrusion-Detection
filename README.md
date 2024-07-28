@@ -21,8 +21,11 @@ This project simulates a wireless sensor network (WSN) and utilizes AI to detect
     ```bash
     pip install -r requirements.txt
     ```
+3. **Download the dataset**:
+    - Download the dataset from [https://www.kaggle.com/datasets/bassamkasasbeh1/wsnds].
+    - Extract the dataset and place the files in the appropriate directory.
 
-3. **Run the simulation**:
+4. **Run the simulation**:
     ```bash
     python main.py
     ```

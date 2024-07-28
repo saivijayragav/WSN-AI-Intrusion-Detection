@@ -69,3 +69,4 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 - Pygame for visualization.
 - scikit-learn for the kNN model implementation.
+- Kaggle for prov8ding the dataset to train the model

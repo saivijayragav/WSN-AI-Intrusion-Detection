@@ -24,6 +24,7 @@ This project simulates a wireless sensor network (WSN) and utilizes AI to detect
 3. **Download the dataset**:
     - Download the dataset from [https://www.kaggle.com/datasets/bassamkasasbeh1/wsnds].
     - Extract the dataset and place the files in the appropriate directory.
+    - This dataset is used to train the model in the modeltraining.py script.
 
 4. **Run the simulation**:
     ```bash
